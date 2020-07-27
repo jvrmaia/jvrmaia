@@ -1,1 +1,7 @@
-![](https://i.pinimg.com/originals/4c/a5/4d/4ca54ddb6b502fefbf54d78e47040b59.gif)
+Hi folks!
+
+- Name: João Victor Rocon Maia
+- Location: Vitória - ES, Brazil
+- Degree: Computer Engineering at UFES
+- Work: DevOps Engineer at Pagar.me
+- Contact: joao@joaovrmaia.com
