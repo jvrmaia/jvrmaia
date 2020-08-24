@@ -5,3 +5,5 @@ Hi folks!
 - Degree: Computer Engineering at UFES
 - Work: DevOps Engineer at Pagar.me
 - Contact: joao@joaovrmaia.com
+
+![João's github stats](https://github-readme-stats.vercel.app/api?username=jvrmaia)
