@@ -1,4 +1,3 @@
 - [Site](https://www.joaovrmaia.com/)
-- [Twitter](https://twitter.com/jvrmaia)
 - [LinkedIn](https://www.linkedin.com/in/jvrmaia/)
 - [Medium](https://medium.com/@jvrmaia)
